@@ -7,6 +7,6 @@ An easy script to install PocketMine-MP 4 in one click
 3. Done! You can start up the server by running the `startserver.bat` script in the PocketMine-MP folder NOT `start.cmd`, that won't work.
 
 # WARNING! 
-You will first need to enable dev-builds in `pocketmine.yml`
-
-PocketMine-MP 4 is not supposed to be used in production! It's still **in development** and **NOT DONE** 
+* You will first need to enable dev-builds in `pocketmine.yml`
+* PocketMine-MP 4 is not supposed to be used in production! It's still **in development** and **NOT DONE** 
+* I made this project to learn a bit more about how batch works. Don't take the code as an example!
