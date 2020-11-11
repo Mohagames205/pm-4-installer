@@ -2,7 +2,7 @@
 An easy script to install PocketMine-MP 4 in one click
 
 ## Requirements
-* You will need (Git)[https://git-scm.com/download/win] to run this script
+* You will need [Git](https://git-scm.com/download/win) to run this script
 
 ## Usage
 1. Put the file in the folder you want to install PocketMine-MP 4.    
