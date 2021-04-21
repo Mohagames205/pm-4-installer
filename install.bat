@@ -11,7 +11,7 @@ git clone --branch=master --recursive https://github.com/pmmp/PocketMine-MP
 cd %pocketminedir%
 
 call :print "Downloading PHP binaries"
-curl -Lo php.zip "https://file.mohamedelyousfi.be/taRO5/wuxANiRA78.zip/raw"
+curl -Lo php.zip "https://file.mohamedelyousfi.be/beve6/heCOkIYo06.zip/raw"
 
 call :print "Unzipping PHP binaries"
 powershell.exe -nologo -noprofile -command "& { $shell = New-Object -COM Shell.Application; $target = $shell.NameSpace('%pocketminedir%'); $zip = $shell.NameSpace('%pocketminedir%\php.zip'); $target.CopyHere($zip.Items(), 16); }"
